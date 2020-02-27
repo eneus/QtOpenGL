@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cubetexture.png</file>
+        <file>grimmnight_large.jpg</file>
+        <file>mettle-skybox.jpg</file>
+        <file>night-texture.png</file>
+        <file>sky.png</file>
+        <file>brick_normal.png</file>
+        <file>brick_normal1.png</file>
+    </qresource>
+</RCC>
